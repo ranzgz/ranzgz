@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img101.pixhost.to/images/600/556070825_rafxz.jpg/u/your-github-id?v=4" width="150" alt="Profile Picture" style="border-radius: 50%;" />
+  <img src="https://img101.pixhost.to/images/600/556070825_rafxz.jpg" width="150" alt="Profile Picture" style="border-radius: 50%;" />
   
   # Hi, I'm Rafxz! 👋
 
