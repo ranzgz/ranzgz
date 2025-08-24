@@ -1,43 +1,66 @@
-<div align="center">
-  <img src="https://img101.pixhost.to/images/600/556070825_rafxz.jpg" width="150" alt="Profile Picture" style="border-radius: 50%;" />
-  
-  # Hi, I'm Rafxz! 👋
-
-  <h3>Prompter Engineer | AI Prompt Crafter | Web Enthusiast</h3>
-</div>
-
----
-
-🌟 **About Me**  
-I'm a promoter engineer and an enthusiastic newcomer to the world of programming. I love working with languages like **JavaScript**, **Python**, and **Node.js**, and I enjoy building websites, crafting epic AI prompts, and solving coding challenges.
-
----
-
-🛠 **Skills**
-- 🔹 AI Prompt Engineering
-- 🔹 Website Creation (HTML, CSS, JavaScript, Node.js, Python)
-- 🔹 Code Troubleshooting & Fixing
-- 🔹 Creative Problem Solving
-
----
-
-📱 **Connect with Me**
-
+<!-- Banner Image -->
 <p align="center">
-  <a href="https://www.tiktok.com/@rappanjai"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://instagram.com/rfxz_flowup"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/@rafxzcihuy"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://wa.me/628563851464"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://github.com/ranzgz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rafxz%20Universe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">⚡ Prompt Engineer | Fullstack Developer | Tech Explorer ⚡</h3>
+
+____             __           
+   / __ \____  _____/ /____  _____
+  / /_/ / __ \/ ___/ __/ _ \/ ___/
+ / ____/ /_/ / /  / /_/  __/ /    
+/_/    \____/_/   \__/\___/_/     
+     ⚡ by Rafxz ⚡
+---
+
+## 🧑‍💻 About Me
+🌟 Seorang **Prompt Engineer** yang fokus pada **AI & System Integration**  
+💻 **Programmer** dengan pengalaman **Frontend & Backend**  
+🚀 Passion dalam **automation, API, dan teknologi AI modern**  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,css,nodejs,express,nextjs,laravel,tailwind,mysql,postgres,mongodb" />
 </p>
 
 ---
 
-📬 **Contact Me**
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafxz&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafxz&theme=tokyonight" height="170"/>
+</p>
 
-- **Email**: [rafxzflow@gmail.com](mailto:rafxzflow@gmail.com)
-- **WhatsApp**: [+62 856-3851-464](https://wa.me/628563851464)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafxz&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-> _"Let's connect and create something awesome together!"_
+## 🚀 Featured Skills
+- 🔮 **Prompt Engineering & AI Automation**  
+- 🌐 **API Development & Integration**  
+- 🎨 **Frontend Design (Tailwind, Next.js)**  
+- ⚙️ **Backend Logic (Node.js, PHP Native, Laravel)**  
+- 🗄️ **Database Mastery (MySQL, PostgreSQL, MongoDB)**  
+
+---
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+</p>
+
+✨ *"Code. Prompt. Automate. Repeat — because the future belongs to creators."* ✨
