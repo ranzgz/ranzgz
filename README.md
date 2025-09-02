@@ -8,9 +8,10 @@
   
 ✨ *"Code. Prompt. Automate. Repeat — because the future belongs to creators."* ✨
 
-🎵 **Now Playing**: Ours to Keep - [Listen on Spotify](https://open.spotify.com/track/7flKzMJj46Ttsb62sM93zy)
+🎵 **Favourite Song**: Ours to Keep
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7flKzMJj46Ttsb62sM93zy)
+<!-- SoundCloud Audio Player -->
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1887842356&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 </div>
 
