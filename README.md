@@ -43,17 +43,6 @@ I'm a passionate developer and creator who believes in the power of automation a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafxz&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🌟 Featured Projects
-
-### [AutoPrompt Pro](https://github.com/rafxz/autoprompt-pro)
-An advanced AI prompt management and automation system that helps developers create, test, and deploy AI prompts at scale.
-
-### [CodeSynth](https://github.com/rafxz/codesynth)
-A code generation tool that uses AI to automate repetitive coding tasks and boilerplate creation.
-
-### [FlowAutomate](https://github.com/rafxz/flowautomate)
-Visual workflow automation platform that enables creating complex automations without writing code.
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafxz)
