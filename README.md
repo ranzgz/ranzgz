@@ -1,63 +1,63 @@
-# Rafxz Universe 🚀
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rafxz%20Universe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
 <div align="center">
+  <h1>Hi there 👋, I'm Rafka Laksanantya</h1>
+  <h3>Prompt Engineer | Aspiring Developer</h3>
   
-✨ *"Code. Prompt. Automate. Repeat — because the future belongs to creators."* ✨
+  <p>
+    Seorang <b>Prompt Engineer</b> yang memiliki ketertarikan besar di dunia Artificial Intelligence dan pengembangan perangkat lunak. Saat ini saya adalah developer pemula yang sedang dalam perjalanan seru mempelajari berbagai teknologi baru untuk membangun solusi yang kreatif dan efisien. 🚀
+  </p>
 
-🎵 **My Favorite Music**: Ours to Keep - [Listen on Spotify](https://open.spotify.com/track/7flKzMJj46Ttsb62sM93zy)
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7flKzMJj46Ttsb62sM93zy)
-
+  <p align="center">
+    <a href="https://github.com/ranzgz">
+      <img src="https://komarev.com/ghpvc/?username=ranzgz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 Tentang Saya
 
-I'm a passionate developer and creator who believes in the power of automation and intelligent systems. My journey revolves around exploring the intersection of code, AI prompts, and automation to build solutions that matter.
-
-- 🔭 **Currently working on**: Next-generation automation tools
-- 🌱 **Learning**: Advanced AI prompt engineering techniques
-- 👯 **Looking to collaborate on**: Open-source automation projects
-- 💬 **Ask me about**: Python, JavaScript, Automation, AI Integration
-- ⚡ **Fun fact**: I believe the best code is the code you don't have to write yourself
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafxz&show_icons=true&theme=radical" alt="Rafxz's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafxz&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafxz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafxz)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rafxz)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafxz)
+- 🔭 Saat ini sedang fokus: Mempelajari **Web Development** dan mengoptimalkan **Prompt Engineering** menggunakan AI.
+- 🌱 Saat ini sedang belajar: **Python, JavaScript, & PHP** untuk memperkuat pemahaman logika backend dan frontend.
+- 💡 Fakta menarik: Saya percaya bahwa AI (seperti Gemini) adalah alat terbaik untuk mempercepat proses belajar seorang *developer*.
+- 📫 Cara menghubungi saya: [rafxzflow@gmail.com]
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
-</p>
+### 🛠️ Tech Stack & Tools
+
+**AI & Editor:**  
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI%20Studio-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+**Languages & Web Tech:**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Database:**  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  
-⭐️ *From [Rafxz](https://github.com/rafxz) with love* ⭐️
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Rafka's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Rafka's Top Languages" />
+</div>
 
+---
+
+### 🎧 Coding Vibe
+
+Kode yang bagus lahir dari suasana hati yang bagus. Kalau saya sedang *ngoding* atau membuat *prompt*, kemungkinan besar saya sedang mendengarkan lagu ini:
+
+> 💿 **Now Playing:** *Everything You Are*  
+> ─────⚪───────────────────── ◄◄⠀▐▐ ⠀►► 🎚️
+
+<br/>
+<div align="center">
+  <i>Let's connect and build something awesome together! 🚀</i>
 </div>
